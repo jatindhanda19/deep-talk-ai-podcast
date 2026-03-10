@@ -1,0 +1,39 @@
+#Core application
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+
+#Langchain & Agent framework
+langchain==0.2.17
+langchain-core==0.2.43
+langchain-community==0.2.19
+langchain-groq==0.1.9
+langgraph==0.2.28
+
+#Vector database
+chromadb>=0.5.0
+
+#Embedding & Tranformer Models
+sentence-transformers==2.2.2
+transformers==4.39.3
+tokenizers==0.15.2
+huggingface-hub>=0.20.0
+
+#Deep learning framework
+torch==2.1.2
+torchaudio==2.1.2
+
+#Document processing
+pypdf>=4.0.0
+
+# Text to speech (TTS)
+git+https://github.com/myshell-ai/MeloTTS.git
+pydub>=0.25.1
+
+#RAG evaluation
+ragas==0.1.21          
+datasets==2.19.0
+
+#tokenization
+openai>=1.0.0
+tiktoken>=0.7.0
+numpy<2.0.0
