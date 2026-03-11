@@ -3,7 +3,11 @@
 > **Transform any PDF document into a conversational podcast using AI.**
 
 DeepTalk is an AI-powered podcast generation system that converts uploaded PDF documents into engaging host–expert style dialogues, synthesized into multi-voice audio with background music. It combines **LLMs**, **vector databases**, **LangGraph workflows**, and **text-to-speech synthesis** into a fully automated podcast pipeline.
+---
 
+## 🎥 Demo Video
+Watch the project demo here: 
+https://github.com/user-attachments/assets/e3d92c8d-406a-465c-b7b7-ec3fa4346ebe
 ---
 
 ## 🚀 Features
